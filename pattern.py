@@ -1,0 +1,18 @@
+from turtle import *
+n=int(input("Enter a number above 10:"))
+speed(0)
+for i in range(n):
+    forward(100)
+    right(90)
+    forward(100)
+    right(90)
+    forward(100)
+    right(90)
+    forward(50)
+    right(90)
+    forward(50)
+    right(90)
+    forward(50)
+    right(90)
+    forward(100)
+    right(10)
