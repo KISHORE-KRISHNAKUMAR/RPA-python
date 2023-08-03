@@ -1,0 +1,6 @@
+squre=(x*x for x in range(5))
+print(next(squre))
+print(next(squre))
+print(next(squre))
+print(next(squre))
+print(next(squre))
